@@ -44,9 +44,9 @@ BOWTIE2 = "/home/users/astar/gis/zhangyu2/.conda/envs/Env_py3/bin/bowtie2"
 BEDTOOLS = "/home/users/astar/gis/zhangyu2/.conda/envs/Env_py3/bin/bedtools"
 SAMTOOLS = "/home/users/astar/gis/zhangyu2/local_bin/samtools"
 FEATURECOUNT = "/home/users/astar/gis/zhangyu2/.conda/envs/Env_py3/bin/featureCounts"
-BAMREADCOUNT = "/home/users/astar/gis/zhangyu2/local_bin/bam-readcount"
-GETMUTRATE = "/home/users/astar/gis/zhangyu2/scratch/Projects/scSHAPE_Map/scSHAPE_scripts/get_mutrate.v3.5.py"
-FILTERMUTRATE = "/home/users/astar/gis/zhangyu2/scratch/Projects/scSHAPE_Map/scSHAPE_scripts/filter_mutrate.py"
+BAMREADCOUNT = "/home/sor4003/store_sor4003/scSPORT/Exe/bam-readcount"
+GETMUTRATE = "/home/sor4003/store_sor4003/scSPORT/Scripts/ToolKits/get_mutrate.v3.5.py"
+FILTERMUTRATE = "/home/sor4003/store_sor4003/scSPORT/Scripts/ToolKits/filter_mutrate.py"
 
 def get_id():
     import os
