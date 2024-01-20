@@ -39,11 +39,11 @@ HOMO_SAF = "/home/users/astar/gis/zhangyu2/scratch-LORNAGS/zhangyu2/Genome_Ref/G
 HOMO_BED = "/home/users/astar/gis/zhangyu2/scratch-LORNAGS/zhangyu2/Genome_Ref/Gencode_GRCh38.longest_transcriptome.modified/gencode.v36.longestCDS.rRNA.bed"
 
 ## Tools
-CUTADAPT = "/home/users/astar/gis/zhangyu2/.conda/envs/Env_py3/bin/cutadapt"
-BOWTIE2 = "/home/users/astar/gis/zhangyu2/.conda/envs/Env_py3/bin/bowtie2"
-BEDTOOLS = "/home/users/astar/gis/zhangyu2/.conda/envs/Env_py3/bin/bedtools"
-SAMTOOLS = "/home/users/astar/gis/zhangyu2/local_bin/samtools"
-FEATURECOUNT = "/home/users/astar/gis/zhangyu2/.conda/envs/Env_py3/bin/featureCounts"
+CUTADAPT = "/home/sor4003/anaconda3/envs/scSPORT/bin/cutadapt"
+BOWTIE2 = "/home/sor4003/anaconda3/envs/scSPORT/bin/bowtie2"
+BEDTOOLS = "/home/sor4003/anaconda3/envs/scSPORT/bin/bin/bedtools"
+SAMTOOLS = "/home/sor4003/anaconda3/envs/scSPORT/bin/samtools"
+FEATURECOUNT = "/home/sor4003/anaconda3/envs/scSPORT/bin/featureCounts"
 BAMREADCOUNT = "/home/sor4003/store_sor4003/scSPORT/Exe/bam-readcount"
 GETMUTRATE = "/home/sor4003/store_sor4003/scSPORT/Scripts/ToolKits/get_mutrate.v3.5.py"
 FILTERMUTRATE = "/home/sor4003/store_sor4003/scSPORT/Scripts/ToolKits/filter_mutrate.py"
